@@ -1,0 +1,32 @@
+{
+  "name": "swagger-ts-codegen",
+  "version": "0.1.0-alpha",
+  "description": "Generates TS code from Swagger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NechiK/swagger-ts-codegen.git"
+  },
+  "keywords": [
+    "swagger",
+    "generate",
+    "typescript",
+    "ts",
+    "codegen"
+  ],
+  "author": "Maks Nechesonov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NechiK/swagger-ts-codegen/issues"
+  },
+  "homepage": "https://github.com/NechiK/swagger-ts-codegen#readme",
+  "dependencies": {
+    "plop": "3.1.2"
+  },
+  "devDependencies": {
+    "jest": "^29.4.3"
+  }
+}
